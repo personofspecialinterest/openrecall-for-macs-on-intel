@@ -23,7 +23,7 @@ OpenRecall for Macs on Intel is a fully open-source, privacy-first alternative t
 
 OpenRecall **FMOI** captures your digital history through regularly taken snapshots, which are essentially screenshots. The text and images within these screenshots are analyzed and made searchable, allowing you to quickly find specific information by typing relevant keywords into OpenRecall. You can also manually scroll back through your history to revisit past activities.
 
-https://github.com/personofspecialinterest/openrecall-for-macs-on-intel/blob/main/images/test_demo.mp4
+https://github.com/personofspecialinterest/openrecall-for-macs-on-intel/raw/refs/heads/main/images/test_demo.mp4
 
 ## Why Choose OpenRecall **FMOI**?
 
