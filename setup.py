@@ -12,7 +12,7 @@ install_requires = [
     "numpy==1.26.4",
     "mss==9.0.1",
     "sentence-transformers==3.0.0",
-    "torch==2.8.0",
+    "torch==2.2.0",
     "torchvision==0.17.0",
     "shapely==2.0.4",
     "h5py==3.11.0",
@@ -22,9 +22,7 @@ install_requires = [
 
 # Define OS-specific dependencies
 extras_require = {
-    "windows": ["pywin32", "psutil"],
-    "macos": ["pyobjc==10.3"],
-    "linux": [],
+    "pyobjc==10.3",
     "python-doctr": [
         "python-doctr @ git+https://github.com/koenvaneijk/doctr.git@af711bc04eb8876a7189923fb51ec44481ee18cd"
     ],
@@ -32,12 +30,8 @@ extras_require = {
 
 # Determine the current OS
 current_os = platform.system().lower()
-if current_os.startswith("win"):
-    current_os = "windows"
-elif current_os == "darwin":
+if current_os == "darwin":
     current_os = "macos"
-elif current_os == "linux":
-    current_os = "linux"
 else:
     current_os = None
 
@@ -48,8 +42,8 @@ if current_os and current_os in extras_require:
 install_requires.extend(extras_require.get("python-doctr", []))
 
 setup(
-    name="OpenRecall",
-    version="0.8",
+    name="OpenRecall for Macs on Intel",
+    version="0.6",
     packages=find_packages(),
     install_requires=install_requires,
     long_description=long_description,

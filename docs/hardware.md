@@ -1,9 +1,15 @@
-# Tested hardware
+# Supported hardware
 
-OpenRecall has been tested on a variety of hardware configurations. The following list is not exhaustive, but it should give you an idea of the hardware that OpenRecall has been tested on:
+OpenRecall for Macs on Intel has support for a variety of hardware configurations. The following list should at least give you an idea of the hardware that is supported:
 
-- Apple MacBook Pro (2022) with M1 Pro and M1 Max chips
-- Dell XPS 13 (2022) with Intel Core i7-12700H
-- Lenovo ThinkPad X1 Carbon (2022) with Intel Core i7-12700H
+- MacBook (Late 2009 to Late 2020)
 
-Please submit a pull request if you have tested OpenRecall on other hardware configurations and would like to add them to this list.
+- MacBook Pro (Mid 2010 to Late 2020)
+
+- MacBook Air (Late 2010 to Late 2020)
+
+- Mac mini (Mid 2010 to Late 2020)
+
+- iMac (Late 2009 to Mid 2021)
+
+- Mac Pro (Mid 2010 to Mid 2023)
