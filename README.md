@@ -1,10 +1,10 @@
 ```
-          ____                   ____                  ____   
-         / __ \____  ___  ____  / __ \___  _________ _/ / /   
-        / / / / __ \/ _ \/ __ \/ /_/ / _ \/ ___/ __ `/ / /    
-       / /_/ / /_/ /  __/ / / / _, _/  __/ /__/ /_/ / / /     
-       \____/ .___/\___/_/ /_/_/ |_|\___/\___/\__,_/_/_/      
-           /_/
+           ____                   ____                  ____   
+          / __ \____  ___  ____  / __ \___  _________ _/ / /   
+         / / / / __ \/ _ \/ __ \/ /_/ / _ \/ ___/ __ `/ / /    
+        / /_/ / /_/ /  __/ / / / _, _/  __/ /__/ /_/ / / /     
+        \____/ .___/\___/_/ /_/_/ |_|\___/\___/\__,_/_/_/      
+            /_/
     __                       _____       _____
   /  _ \                    |     \     /    |
  |  |__   __    __  __      |       \ /      |  ___     ___  ____
@@ -23,7 +23,7 @@ OpenRecall for Macs on Intel is a fully open-source, privacy-first alternative t
 
 OpenRecall **FMOI** captures your digital history through regularly taken snapshots, which are essentially screenshots. The text and images within these screenshots are analyzed and made searchable, allowing you to quickly find specific information by typing relevant keywords into OpenRecall. You can also manually scroll back through your history to revisit past activities.
 
-https://github.com/openrecall/openrecall/assets/16676419/cfc579cb-165b-43e4-9325-9160da6487d2
+https://github.com/personofspecialinterest/openrecall/assets/16676419/cfc579cb-165b-43e4-9325-9160da6487d2
 
 ## Why Choose OpenRecall **FMOI**?
 
