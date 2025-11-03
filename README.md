@@ -85,7 +85,7 @@ python3 -m pip install --upgrade --no-cache-dir git+https://github.com/personofs
 
 To run:
 ```
-python3 -m openrecall_for_macs_on_intel
+python3 -m openrecall_for_macs_on_intel.app
 ```
 Open your browser to the link provided in Terminal when ran to access OpenRecall.
 
